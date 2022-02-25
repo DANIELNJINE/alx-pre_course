@@ -1,5 +1,1 @@
-cd /alx-pre_course/0x01-git/
-touch up_to_date
-vi up_to_date i
-git add .
-git commit -m "How to be up to date in git"
+git pull
